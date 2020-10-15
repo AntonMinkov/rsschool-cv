@@ -33,3 +33,6 @@ Development and administration of a WordPress site. Administration and SEO websi
 - school №39
 - Vitebsk State Technological University
 - IPK BRU
+
+## English:
+A1 level
