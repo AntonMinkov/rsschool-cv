@@ -24,3 +24,12 @@ My motto is constant development, achievement of the set goals, one of which is 
 - [Project C#](https://github.com/AntonMinkov/MS)
 - [Project WebDev](https://github.com/AntonMinkov/Pulse)
 
+## Experience:
+
+Development and administration of a WordPress site. Administration and SEO website promotion.
+
+## Education:
+
+- school №39
+- Vitebsk State Technological University
+- IPK BRU
